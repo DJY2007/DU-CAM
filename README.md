@@ -1,6 +1,8 @@
 # DU-CAM
-The code used in this study is available from the corresponding author upon reasonable request.
-This repository provides code availability information only and does not contain the source code.
-For code requests, please contact the corresponding author.
+This repository will host the implementation of DU-CAM for facial expression recognition.
 
-To be released upon acceptance of the associated manuscript.
+Code Availability
+
+The code will be made publicly available in this repository upon acceptance of the associated manuscript.
+
+At present, this repository contains only this availability statement. The implementation has not yet been released.
